@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Example</string>
+
+    <string name="textLabel">Example:</string>
+    <string name="textPlaceHolder">Type here...</string>
+    <string name="runButton">SHOW</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActivityCommunication</string>
+    <string name="titleString">Login</string>
+    <string name="loginPlaceHolder">Name</string>
+    <string name="passwordPlaceHolder">Password</string>
+    <string name="imageContent">Locked</string>
+    <string name="okButton">OK</string>
+    <string name="goBack">RETURN</string>
+</resources>
