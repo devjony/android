@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">jsonApp</string>
+    <string name="nameLabel">Name: </string>
+    <string name="phoneLabel">Phone: </string>
+    <string name="parseButton">"parse JSON"</string>
+    <string name="unparseButton">"JSON unparse"</string>
+</resources>
