@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">alcoholOrGasoline</string>
+    <string name="alcoholText">Alcohol Price:</string>
+    <string name="gasolineText">Gasoline Price:</string>
+    <string name="pricePlaceHolder">$</string>
+    <string name="calculateButton">CALCULATE</string>
+</resources>
