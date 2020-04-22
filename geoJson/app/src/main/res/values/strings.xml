@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">geoJson</string>
+    <string name="button">GET DATA</string>
+</resources>
