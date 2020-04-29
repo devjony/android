@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dataPersistence</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="loginPlaceHolder">Input you login...</string>
+    <string name="passwordPlaceHolder">Input your password...</string>
+    <string name="shared">SHARED</string>
+    <string name="file">FILE</string>
+    <string name="sqlite">SQLITE</string>
+</resources>

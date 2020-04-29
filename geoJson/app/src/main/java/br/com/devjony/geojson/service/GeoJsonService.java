@@ -6,6 +6,8 @@ import android.os.Binder;
 import android.os.IBinder;
 import android.widget.Toast;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -44,13 +46,11 @@ public class GeoJsonService extends Service {
     }
 
     public void printJson(Json json) {
-
         for (Features feature : json.getFeatures()) {
             String latitude = feature.getGeometry().getCoordinates().get(0);
             String longitude = feature.getGeometry().getCoordinates().get(1);
             Toast.makeText(this, "Latitude: " + latitude + "\nLongitude: " + longitude, Toast.LENGTH_LONG).show();
         }
-
 
     }
 }
