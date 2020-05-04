@@ -15,6 +15,8 @@ public class InputActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_input);
+
+        Toast.makeText(this, "Authorized Access", Toast.LENGTH_SHORT).show();
     }
 
     public void getData(View v) {
