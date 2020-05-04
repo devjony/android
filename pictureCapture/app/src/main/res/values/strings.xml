@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pictureCapture</string>
+    <string name="fileName">Input the file name...</string>
+    <string name="take">TAKE</string>
+</resources>
