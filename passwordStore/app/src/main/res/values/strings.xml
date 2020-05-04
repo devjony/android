@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">passwordStore</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="server">Server</string>
+    <string name="save">SAVE</string>
+    <string name="recovery">RECOVERY</string>
+    <string name="lPlaceHolder">Input your login name...</string>
+    <string name="sPlaceHolder">Input your server name...</string>
+    <string name="pPlaceHolder">Input your password...</string>
+    <string name="rpPlaceHolder">Recovered password...</string>
+    <string name="loginButton">LOGIN</string>
+</resources>
